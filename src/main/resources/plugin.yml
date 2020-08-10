@@ -1,0 +1,9 @@
+main: dev.fps.NoChorus.NoChorus
+
+version: 1.0
+
+name: NoChorus
+
+commands:
+  nochorus:
+    description: principal command
